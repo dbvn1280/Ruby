@@ -6,3 +6,4 @@ elsif a == 8
 else 
 	puts "Khong biet"
 end
+
